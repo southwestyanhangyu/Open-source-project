@@ -1,0 +1,80 @@
+              Vovida Software License v. 1.0
+This license applies to all software incorporated in the
+"Vovida Open Communication Application Library" except for
+those portions incorporating third party software specifically
+identified as being licensed under separate license.
+
+The Vovida Software License, Version 1.0
+Copyright (c) 2000 Vovida Networks, Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or
+without modification,are permitted provided that the following
+conditions are met:
+
+1. Redistributions of source code must retain the above copyright
+   notice, this list of conditions and the following disclaimer.
+
+2. Redistributions in binary form must reproduce the above 
+   copyright notice,this list of conditions and the following 
+   disclaimer in the documentation and/or other materials provided
+   with the distribution.
+
+3. The names "VOCAL", "Vovida Open Communication Application 
+   Library",and "Vovida Open Communication Application Library
+   (VOCAL)" must not be used to endorse or promote products derived 
+   from this software without prior written permission. For written 
+   permission,please contact vocal@vovida.org.
+
+4. Products derived from this software may not be called "VOCAL", 
+   nor may "VOCAL" appear in their name, without prior written
+   permission.
+
+THIS SOFTWARE IS PROVIDED "AS IS" AND ANY EXPRESSED OR IMPLIED 
+WARRANTIES,INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE AND
+NON-INFRINGEMENT ARE DISCLAIMED.IN NO EVENT SHALL VOVIDA NETWORKS,
+INC. OR ITS CONTRIBUTORS BE LIABLE FOR ANYDAMAGES IN EXCESS OF $1,000,
+NOR FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY,OR CONSEQUENTIAL
+DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE
+GOODS OR SERVICES;LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION)
+HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY,WHETHER IN CONTRACT, STRICT
+LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY
+OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+This software consists of voluntary contributions made by Vovida Networks,
+Inc. and many individuals on behalf of Vovida Networks, Inc. For more
+information on Vovida Networks, Inc., please see http://www.vovida.org.
+
+All third party licenses and copyright notices and other required legends
+also need to be complied with as well.
+                    Vovida软件许可证1.0版（VSL-1.0）
+本许可证适用于“Vovida开放式通信应用程序库”中包含的所有软件，但是除了那些包含第三
+方软件的部分，这些软件具体认定为在单独许可下获得许可。  
+
+Vovida软件许可版本1.0版权（c）2000 Vovida Networks，Inc.保留所有权利。
+
+只要满足以下条件，就允许在修改或不修改的情况下以源代码和二进制形式重新分发和使用：
+
+1. 源代码的重新分配必须保留上述版权声明，本条件列表和以下免责声明。
+
+2. 以二进制形式重新发布必须在随分发提供的文档或其他材料中复制上述版权声明，本条件列
+   表和以下免责声明。
+  
+3. 未经事先书面许可，不得使用“VOCAL”，“Vovida开放式通信应用程序库”和“Vovida开放
+   式通信应用程序库（VOCAL）”名称来认可或宣传此软件衍生的产品。有关书面许可，请联
+   系vocal@vovida.org
+
+4. 未经事先书面许可，本软件衍生的产品不得被称为“VOCAL”，也不得以其名称出现“VOCAL”。
+   软件提供“是”和任何明示或暗示的担保，包括但不限于默示保证适销性，针对特定用途的
+   适用性、所有权和非侵权的担保。在任何情况下，VOVIDA NETWORKS或其贡献者均不对任何
+   超过1000美元的损害负责，也不对任何间接的，附带的，特殊的，惩戒性的或后果损害负责
+  （包括但不限于采购替代商品或服务使用，数据或利润的损失;或业务中断）;使用该软件而
+   产生的任何责任理论，不论是在合同、严格责任或侵权（包括过失或其他）中产生的损失、
+   数据或利润；或商业中断，即使是告知这种损害的可能性，也应以任何方式提出。
+
+此软件由Vovida Networks和许多个人代表Vovida Networks自愿提供。有关Vovida Networks，
+Inc.的更多信息，请访问http://www.vovida.org。
+
+有第三方许可证和版权声明以及其他必需的规定也需要遵守。
+Vovida软件许可证1.0版（VSL-1.0）
